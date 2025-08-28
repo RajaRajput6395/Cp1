@@ -1,0 +1,9 @@
+a=int(input('enter the num'))
+b=int(input('enter the num'))
+c=int(input('enter the num'))
+d=int(input('enter the num'))
+e=int(input('enter the num'))
+ 
+avg=a+b+c+d+e 
+avge=avg/5
+print(avge)
